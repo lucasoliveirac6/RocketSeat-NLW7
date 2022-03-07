@@ -40,8 +40,8 @@ main {
     z-index: 1;
 }
 
-.container img.perfilImg {
-    width: 60%;
+.container img.profileImg {
+    width: 70%;
     clip-path: polygon(0 26%, 50% 0, 100% 26%, 100% 72%, 50% 100%, 0 72%);
 }
 
